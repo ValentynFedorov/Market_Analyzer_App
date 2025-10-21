@@ -1,0 +1,6 @@
+# market_backend/requirements.txt
+fastapi
+uvicorn[standard]
+pandas
+scikit-learn
+prophet
